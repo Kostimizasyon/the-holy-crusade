@@ -5,6 +5,6 @@ I have no clue how on earth this tradition for me has started, I have never gamb
 
 I believe lua or js might be missing a few lines.
 
-I put ts and go but C# but i didnt do them yet so when i learn those (i know ts im just too lazy for it) ill do em too
+TS, Go, C# (.NET + Unity)
 
 THE BIGGEST GOAL IS ASSEMBLY
