@@ -24,21 +24,19 @@ impl Faces {
 
 pub struct Cards {
 
-    value: i32,
+    value: u16,
     face: Faces
 
 }
 
 impl Cards {
 
-    fn new(value : i32, face : Faces) -> Self {
+    fn new(value : u16, face : Faces) -> Self {
         Self { value, face }
     }
 
     fn to_string(&self) -> String {
-
         self.value.to_string() + " of "+ self.face.to_string()
-
     }
 
 }

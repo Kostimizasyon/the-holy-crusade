@@ -1,0 +1,12 @@
+{
+  "name": "blackjack-game",
+  "version": "1.0.0",
+  "type": "module", 
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}
