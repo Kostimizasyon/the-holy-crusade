@@ -1,9 +1,10 @@
-mod classes;
+mod mods;
+use mods::game;
 
 fn main() {
   
-    println!("Hello");
-
+    let mut game = game::BlackJackGame::new(None);
+    
+    game.start_game(None);
 }
-
 
